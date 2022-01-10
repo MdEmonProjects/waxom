@@ -1,0 +1,193 @@
+
+
+
+
+/* Medium devices */
+@media (max-width: 991.98px) {  }
+
+/* Large devices */
+@media (max-width: 1199.98px) { }
+
+
+
+/* Medium devices */
+@media (max-width: 767.98px) { 
+    
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* small device */
+@media (max-width: 575.98px) { 
+    /* common css start */
+    h1,h2,h3,h4,h5,h6,p{
+        line-height: 1.2;
+    }
+    .header_p_txt_style {
+        font-size: 14px;
+    }
+    /* common css End */
+
+    /* nv-bar start */
+    .navbar-nav{
+        margin-top: 10px;
+    }
+    .navbar-nav .nav-item{
+        text-align: center;
+        background: #000;
+    }
+    .navbar-nav .nav-item .nav-link{
+        padding: 10px 0;
+        text-transform: uppercase;
+    }
+    /* .navbar-toggler{
+        
+    } */
+    /* nv-bar End */
+
+    /* banner part start */
+    .banner_overly {
+        padding-top: 190px;
+        padding-bottom: 100px;
+    }
+    .banner_txt h4 {
+        font-size: 26px;
+    }
+    .banner_txt h3 {
+        font-size: 40px;
+    }
+    .banner_txt p {
+        /* width: 285px; */
+        line-height: 24px;
+        margin: 0 auto;
+    }
+    /* banner part End */
+
+    /* service part start */
+    #service {
+        padding-top: 50px;
+    }
+    .three_in_one {
+        padding-top: 60px;
+    }
+    .three_in_one h3 {
+        font-size: 28px;
+    }
+    .three_in_one p {
+        /* width: 290px; */
+        font-size: 14px;
+    }
+    #them {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .them_txt p {
+        font-size: 20px;
+        text-align: center;
+        line-height: 25px;
+    }
+    .them_txt h5 {
+        /* padding-top: 6px; */
+        color: #615855;
+        text-align: center;
+        padding: 7px;
+    }
+    .Purchase{
+        margin: 0 auto;
+    }
+    /* service part End */
+
+    /* project part start */
+    #projects {
+        padding: 40px 0px;
+    }
+    .header_txt_style {  
+        font-size: 25px;
+    }
+    .pfolio_btn button {
+        padding: 10px 10px;
+        margin-right: 10px;
+        margin-top: 25px;
+    }
+    /* project part End */
+
+    /* pop video part start */
+    .video_overly {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .video_txt h3 {
+        padding-top: 16px;
+        padding-bottom: 20px;
+        font-size: 27px;
+       
+    }
+    .video_txt p {
+        /* width: 300px; */
+    }
+    /* pop video part End */
+
+    /* excellent part start */
+    .excellent_devices_txt {
+        padding-top: 30px;
+    }
+    .excellent_devices_txt h3 {
+        font-size: 25px;
+        padding-left: 20px;
+    }
+    .excellent_devices_txt p {
+        /* width: 280px; */
+        padding: 20px 0px;
+    }
+    .excellent_devices_icon_text h5 {
+        margin-bottom: 15px;
+    }
+    .excellent_devices_icon_text h5 i {
+        margin-right: 10px;
+        padding-bottom: 12px;
+    }
+    /* excellent part End */
+    
+    /* achievement part start */
+    #achievement {
+        padding-top: 35px;
+        padding-bottom: 45px;
+    }
+    .achievement_item{
+        margin-bottom: 60px;
+    }
+    .achievement_item h3 {
+        font-size: 30px;
+        letter-spacing: 3px;
+        padding-top: 10px;
+        padding-bottom: 8px;
+    }
+    .achievement_item p::after {
+        content: '';
+        bottom: -20px;
+    }
+    /* achievement part End */
+    
+    /* recent post start */
+    .recent_text{
+        padding-left: 0px;
+        text-align: center;
+    }
+    /* recent post End */
+
+
+
+ }
